@@ -1,4 +1,4 @@
-# Calculator with python
+ # Calculator with python
 
 ![Ekran görüntüsü 2023-10-28 144225](https://github.com/soykuvvetberat34/Calculator/assets/69586522/64fe1608-69d4-4efb-9bd1-7081bb1af8af)
 
